@@ -20,6 +20,80 @@
       "data": "2022-05-08",
       "img": "https://ffw.uol.com.br/app/uploads/spfw/2019/04/bsto-img-gc-n47-009-1200x801.jpg",
       "id": 4
+    },
+    {
+      "nome": "Lançamento do Windows X",
+      "local": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050",
+      "data": "2021-12-26",
+      "img": "https://i.pinimg.com/originals/c1/fa/f1/c1faf18d7ec26a4c24bbb8d9744b378e.jpg",
+      "id": 5
+    },
+    {
+      "nome": "Eliton Camargo de Oliveira",
+      "local": "Eliton Camargo de Oliveira",
+      "data": "2021-04-30",
+      "img": "https://atasouthport.com/wp-content/uploads/2017/04/default-image.jpg",
+      "id": 6
+    }
+  ],
+  "produto": [
+    {
+      "id": 3,
+      "nome": "Bala",
+      "quant": 3,
+      "valor": 556
+    },
+    {
+      "id": 4,
+      "nome": "DDD",
+      "quant": 2,
+      "valor": 2
+    },
+    {
+      "id": 5,
+      "nome": "w",
+      "quant": 1,
+      "valor": 1
+    },
+    {
+      "id": 6,
+      "nome": "Ddd",
+      "quant": 3,
+      "valor": 3
+    },
+    {
+      "id": 7,
+      "nome": "XXXX",
+      "quant": 10,
+      "valor": 10
+    },
+    {
+      "id": 8,
+      "nome": "Teste em aula",
+      "quant": 2,
+      "valor": 100
+    },
+    {
+      "id": 9,
+      "nome": "TTTTTTTTFFFFF",
+      "quant": 1,
+      "valor": 1
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "camargoliveira@gmail.com",
+      "senha": "23dsafsd##",
+      "name": "Eliton Camargo",
+      "foto": "../../eliton.jpg"
+    },
+    {
+      "username": "eliton.oliveira@gmail.com",
+      "senha": "23dsafsd##",
+      "name": "Eliton Camargo de Oliveira",
+      "foto": "../../eliton.jpg",
+      "id": 2
     }
   ]
 }
