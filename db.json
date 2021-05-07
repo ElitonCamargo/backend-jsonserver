@@ -39,13 +39,13 @@
   "produto": [
     {
       "id": 3,
-      "nome": "Bala",
+      "nome": "arroz",
       "quant": 3,
       "valor": 556
     },
     {
       "id": 4,
-      "nome": "DDD",
+      "nome": "feijão",
       "quant": 2,
       "valor": 2
     },
@@ -63,19 +63,19 @@
     },
     {
       "id": 7,
-      "nome": "XXXX",
+      "nome": "óleo",
       "quant": 10,
       "valor": 10
     },
     {
       "id": 8,
-      "nome": "Teste em aula",
+      "nome": "açúcar",
       "quant": 2,
       "valor": 100
     },
     {
       "id": 9,
-      "nome": "TTTTTTTTFFFFF",
+      "nome": "farinha ",
       "quant": 1,
       "valor": 1
     }
